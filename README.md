@@ -1,4 +1,4 @@
-# 3_Databases_Compared
+# 3 Databases Compared
 The model of a database is the underlying structure for how data is stored in each database system. For my CMSI 402 capstone project, I will be importing data into 3 different databases and evaluating their performance. The goal of this project will be to examine the differences and witness firsthand the advantages and disadvantages of each database model. I will using a traditional relational database, a NoSQL database, and a graph database. 
 
 A relational database uses the relational model that is reliant upon first-order predicate logic. All relational databases models use the Structured Query Language (SQL) to access the database. Therefore, I will be using PostgreSQL as my standard SQL database engine. 
