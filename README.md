@@ -10,8 +10,8 @@ A relational database uses the relational model that is reliant upon first-order
 * Speed at which queries get results
 * Simplicity of query language
 
--Dynamo
--HBase
+1. -Dynamo
+1. -HBase
 
 
 I will also be exploring using an AWS
