@@ -5,10 +5,10 @@ A relational database uses the relational model that is reliant upon first-order
 
   In contrast, sometimes a relational model may not be the best tool to solve the problem. The NoSQL branch of databases offers many different data models to choose from like column, document, key-value, and graph databases. NoSQL databases offer the advantage of allowing for quick processing of bigger datasets. 
 
-Key criteria: 
-Ease at which database was set up
-Speed at which queries get results
-Simplicity of query language
+# Key criteria: 
+* Ease at which database was set up
+* Speed at which queries get results
+* Simplicity of query language
 
 -Dynamo
 -HBase
