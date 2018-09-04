@@ -18,10 +18,10 @@ I will use NEO4j as a graph database.
 
 
 The dataset for the project will be a movie dataset that has metadata on 45,000 movies and 26 million ratings. 
-https://www.kaggle.com/rounakbanik/the-movies-dataset/home
 
 
 Sources:
 https://en.wikipedia.org/wiki/Relational_database
 https://www.toptal.com/database/the-definitive-guide-to-nosql-databases
 https://datajobs.com/what-is-hadoop-and-nosql
+https://www.kaggle.com/rounakbanik/the-movies-dataset/home
