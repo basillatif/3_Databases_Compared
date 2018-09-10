@@ -14,9 +14,9 @@ A relational database uses the relational model that is reliant upon first-order
 # Databases Used:
 I will be using PostgreSQL as my standard SQL database engine. 
 Amazon Dynamo DB is a NoSQL database that supports key-value and document data structures.
-I will use NEO4j as a graph database. 
 I am considering using Redis in lieu of one of the above. 
 I am also considering using ElasticSearch. 
+Cassandra. 
 
 The dataset for the project will be a movie dataset that has metadata on 45,000 movies and 26 million ratings. 
 
