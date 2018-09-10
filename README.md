@@ -13,7 +13,9 @@ A relational database uses the relational model that is reliant upon first-order
 
 # Databases Used:
 I will be using PostgreSQL as my standard SQL database engine. 
-I am using Redis as a key-value store database. 
+
+I am using Apache Cassandra as a wide-column store NoSQL database. 
+
 I am using ElasticSearch as a search engine model. 
 The dataset for the project will be a movie dataset that has metadata on 45,000 movies and 26 million ratings. 
 
